@@ -6,7 +6,9 @@ git add . //agregar todo
 git comit
 git config --global user.email "correo" //configurar correo
 git config --global user.name "nombre de usuario" // configurar nombre
-git commit //para crear version, usar i para escribir nombre del commit, pulsar escape y luego ":wq", luego enter
+git commit //para crear version, usar i para escribir nombre del commit, pulsar escape y luego ":wq", luego enter(w - write, q - quit)
 git log // para ver las versiones
 git checkout -- "nombre del archivo" // para revertir los cambio, sin comillas
 git diff //para ver las difrencias entre versiones
+
+<< git ignore //no es comando, crear un archivos llamado .git ignore y poner el nombre de los archivos o carpetas que va a ignorar git>>
