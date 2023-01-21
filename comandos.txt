@@ -14,3 +14,7 @@ git diff //para ver las difrencias entre versiones
 << git ignore //no es comando, crear un archivos llamado .git ignore y poner el nombre de los archivos o carpetas que va a ignorar git>>
 
 git commit -m "commit" // forma corta de hacer el commit
+
+git branch "nombre" // para crear versiones distintas de un mismo proyecto, y para cambiar entre ellas git checkout "nombre"
+
+git remote // direccnion web donde tranajar(en github)
