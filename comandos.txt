@@ -1,0 +1,4 @@
+ls //lista	
+git init //iniciar proyecto
+git status // ver estados de los archivos
+git add // para agregar un archivo al stating area(area de declarado)
