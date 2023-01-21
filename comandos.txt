@@ -15,4 +15,4 @@ git diff //para ver las difrencias entre versiones
 
 git commit -m "commit" // forma corta de hacer el commit
 
-git branch "nombre" // para crear versiones distintas de un mismo proyecto, y para cambiar entre ellas
+git branch "nombre" // para crear versiones distintas de un mismo proyecto, y para cambiar entre ellas git checkout "nombre"
