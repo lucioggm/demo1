@@ -12,3 +12,5 @@ git checkout -- "nombre del archivo" // para revertir los cambio, sin comillas
 git diff //para ver las difrencias entre versiones
 
 << git ignore //no es comando, crear un archivos llamado .git ignore y poner el nombre de los archivos o carpetas que va a ignorar git>>
+
+git commit -m "commit" // forma corta de hacer el commit
